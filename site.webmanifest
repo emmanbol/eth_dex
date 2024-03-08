@@ -1,0 +1,19 @@
+{
+    "name": "Icon World Dex",
+    "short_name": "DEX",
+    "icons": [
+        {
+            "src": "/favicon_deffi.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon_deffi.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
